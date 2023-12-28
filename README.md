@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/stopwatch-app.git
+git clone https://github.com/deepak798/Stopwatch-.git
 Open index.html in your preferred web browser.
 
 Usage
